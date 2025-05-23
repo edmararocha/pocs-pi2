@@ -29,16 +29,16 @@ firebase-backend/
 ├─ mvnw.cmd
 └─ serviceAccountKey.json <-- Coloque seu arquivo aqui
 
-# Como rodar localmente
+## Como rodar localmente
 
     Coloque o arquivo serviceAccountKey.json na raiz do projeto (firebase-backend/).
 
     No terminal, execute o backend com o Maven Wrapper:
 
-# Linux / Mac
+## Linux / Mac
 ./mvnw spring-boot:run
 
-# Windows (PowerShell ou CMD)
+## Windows (PowerShell ou CMD)
 mvnw.cmd spring-boot:run
 
     O backend estará rodando no endereço:

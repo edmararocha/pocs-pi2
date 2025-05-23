@@ -10,9 +10,9 @@ Este documento apresenta a análise de três Provas de Conceito (PoCs) para apoi
 
 | PoC | Descrição | Funcionalidades básicas funcionam? | Tempo estimado (h) | Dificuldades encontradas | Facilidade de escalar | Observações |
 |-----|-----------|-------------------------------------|---------------------|----------------------------|------------------------|-------------|
-| ✅ PoC 1 – Firebase + Tailwind | Frontend completo com Tailwind + Firebase (Auth, Firestore, Storage) | ⬜ Sim ⬜ Não | ⬜ | ⬜ | ⬜ Alta ⬜ Média ⬜ Baixa | ⬜ |
-| ✅ PoC 2 – Backend Python/Java + Tailwind | Backend robusto com Flask/Django ou Spring Boot + banco relacional ou NoSQL + frontend separado com Tailwind | ⬜ Sim ⬜ Não | ⬜ | ⬜ | ⬜ Alta ⬜ Média ⬜ Baixa | ⬜ |
-| ✅ PoC 3 – Firebase (Auth/Storage) + Backend | Firebase para login e backend Java | ⬜ Sim ⬜ Não | ⬜ | ⬜ | ⬜ Alta ⬜ Média ⬜ Baixa | ⬜ |
+| ✅ PoC 1 – Firebase (Auth/Storage) + Backend | Firebase para login e backend Java | ⬜ Sim ⬜ Não | ⬜ | ⬜ | ⬜ Alta ⬜ Média ⬜ Baixa | ⬜ |
+| ✅ PoC 2 – | | ⬜ Sim ⬜ Não | ⬜ | ⬜ | ⬜ Alta ⬜ Média ⬜ Baixa | ⬜ |
+| ✅ PoC 3 – | | ⬜ Sim ⬜ Não | ⬜ | ⬜ | ⬜ Alta ⬜ Média ⬜ Baixa | ⬜ |
 
 ## ✅ Instruções de Preenchimento
 

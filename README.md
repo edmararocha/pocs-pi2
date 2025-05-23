@@ -10,9 +10,9 @@ Este documento apresenta a análise de três Provas de Conceito (PoCs) para apoi
 
 | PoC | Descrição | Funcionalidades básicas funcionam? | Tempo estimado (h) | Dificuldades encontradas | Facilidade de escalar | Observações |
 |-----|-----------|-------------------------------------|---------------------|----------------------------|------------------------|-------------|
-| ✅ PoC 1 – Firebase (Auth/Storage) + Backend | Firebase para login e backend Java | ⬜ Sim ⬜ Não | ⬜ | ⬜ | ⬜ Alta ⬜ Média ⬜ Baixa | ⬜ |
-| ✅ PoC 2 – | | ⬜ Sim ⬜ Não | ⬜ | ⬜ | ⬜ Alta ⬜ Média ⬜ Baixa | ⬜ |
-| ✅ PoC 3 – | | ⬜ Sim ⬜ Não | ⬜ | ⬜ | ⬜ Alta ⬜ Média ⬜ Baixa | ⬜ |
+| ✅ PoC 1 – Firebase (Auth) + Backend | Firebase para login e backend Java | ⬜ Sim ⬜ Não | ⬜ | ⬜ | ⬜ Alta  ⬜ Média  ⬜ Baixa | ⬜ |
+| ✅ PoC 2 – | | ⬜ Sim ⬜ Não | ⬜ | ⬜ | ⬜ Alta  ⬜ Média  ⬜ Baixa | ⬜ |
+| ✅ PoC 3 – | | ⬜ Sim ⬜ Não | ⬜ | ⬜ | ⬜ Alta  ⬜ Média  ⬜ Baixa | ⬜ |
 
 ## ✅ Instruções de Preenchimento
 

@@ -10,9 +10,9 @@ Este documento apresenta a análise de três Provas de Conceito (PoCs) para apoi
 
 | PoC | Descrição | Funcionalidades básicas funcionam? | Tempo estimado (h) | Dificuldades encontradas | Facilidade de escalar | Observações |
 |-----|-----------|-------------------------------------|---------------------|----------------------------|------------------------|-------------|
-| ✅ PoC 1 – Firebase (Auth) + Backend | Firebase para login e backend Java | ✅ Sim | 2h | Tempo de aprendizagem devido a falta de conhecimento sobre React | 🟧 Média | A integração para Auth do Firebase foi tranquila, a principal questão é a aprendizafem do React e também se o Firebase irá suprir as necessidades de banco de dados, mas não é algo tão preocupante, pois a integração com a ferramenta é simples. |
-| ✅ PoC 2 – | | ⬜ Sim ⬜ Não | ⬜ | ⬜ | ⬜ Alta  ⬜ Média  ⬜ Baixa | ⬜ |
-| ✅ PoC 3 – | | ⬜ Sim ⬜ Não | ⬜ | ⬜ | ⬜ Alta  ⬜ Média  ⬜ Baixa | ⬜ |
+| ✅ PoC 1 – Firebase (Auth) + Backend | Firebase para login e backend Java | ✅ Sim | 1:30min | Tempo de aprendizagem devido a falta de conhecimento sobre React | 🟧 Média | A integração para Auth do Firebase foi tranquila, a principal questão é a aprendizafem do React e também se o Firebase irá suprir as necessidades de banco de dados, mas não é algo tão preocupante, pois a integração com a ferramenta é simples. |
+| ✅ PoC 2 – | | ⬜ Sim/Não |  |  | ⬜ Alta/Média/Baixa |  |
+| ✅ PoC 3 – | | ⬜ Sim/Não |  |  | ⬜ Alta/Média/Baixa |  |
 
 ## ✅ Instruções de Preenchimento
 

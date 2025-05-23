@@ -17,16 +17,27 @@ Este projeto é uma prova de conceito (PoC) de um backend Java Spring Boot que v
 ## Estrutura do projeto
 
 firebase-backend/
+
 ├─ src/
+
 │ ├─ main/
+
 │ │ ├─ java/
+
 │ │ │ └─ com/example/firebasebackend/
+
 │ │ │ └─ FirebaseBackendApplication.java
+
 │ │ └─ resources/
+
 │ │ └─ application.properties
+
 ├─ pom.xml
+
 ├─ mvnw
+
 ├─ mvnw.cmd
+
 └─ serviceAccountKey.json <-- Coloque seu arquivo aqui
 
 ## Como rodar localmente
